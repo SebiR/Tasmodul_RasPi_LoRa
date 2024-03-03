@@ -14,3 +14,8 @@ A 100x100mm "Tasmodul" PCB for a Raspberry Pi with the option to populate a LoRa
 
 ## GPS
 <img src="./doc/raspi_lora_render_back.png" width="600">
+
+## SMA Connectors
+Although there's the option to use short U.fl to U.fl connectors, I recommend using those THT SMA connectors with built-in pigtail:
+
+<img src="./doc/sma_ufl.jpg" width="400">
