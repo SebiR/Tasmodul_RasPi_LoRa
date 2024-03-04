@@ -19479,7 +19479,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="J1" library="Wurth_Connectors_WR-TBL Pluggable Connector" library_urn="urn:adsk.eagle:library:16280984" deviceset="691322310002" device="" package3d_urn="urn:adsk.eagle:package:16281914/2" value=" 691322310002 "/>
 <part name="J2" library="Eigene-Rietig" library_urn="urn:adsk.eagle:library:40964436" deviceset="RASPI_4B" device="" package3d_urn="urn:adsk.eagle:package:43471037/2"/>
-<part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0603" package3d_urn="urn:adsk.eagle:package:15822/2" value="green"/>
+<part name="LED4" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0603" package3d_urn="urn:adsk.eagle:package:15822/2" value="green"/>
 <part name="U1" library="Eigene-Rietig" library_urn="urn:adsk.eagle:library:40964436" deviceset="AP64351" device="" package3d_urn="urn:adsk.eagle:package:41055620/1"/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="L1" library="Wurth_Power Magnetics_WE-LQS" library_urn="urn:adsk.eagle:library:14283646" deviceset="WE-LQS_6045" device="" package3d_urn="urn:adsk.eagle:package:13009654/4" technology="_74404064033" value="4,7uH"/>
@@ -19487,16 +19487,16 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="10n"/>
 <part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="2n7"/>
 <part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="33p"/>
-<part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="15k8"/>
-<part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="115k"/>
-<part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="22k1"/>
+<part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="15k8"/>
+<part name="R12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="115k"/>
+<part name="R13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="22k1"/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="dnp"/>
 <part name="P+4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
+<part name="R14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="10u"/>
 <part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="10u"/>
@@ -19516,11 +19516,11 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="+3V1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="+3V2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="C13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
-<part name="C15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
 <part name="C16" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
-<part name="C19" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
+<part name="C17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
+<part name="C18" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
 <part name="C20" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
+<part name="C21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
 <part name="U2" library="Eigene-Rietig" library_urn="urn:adsk.eagle:library:40964436" deviceset="QUECTEL_L76-M33" device="" package3d_urn="urn:adsk.eagle:package:43472501/2"/>
 <part name="C9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
 <part name="C8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
@@ -19531,22 +19531,22 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="B1" library="SparkFun-Batteries" library_urn="urn:adsk.eagle:library:508" deviceset="ML414H_IV01E_BATTERY" device="" override_package3d_urn="urn:adsk.eagle:package:43526992/2" override_package_urn="urn:adsk.eagle:footprint:43526993/1" value="6.8MM_COIN_CELL"/>
-<part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
+<part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
 <part name="D3" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="DIODE-" device="SOD323-R" package3d_urn="urn:adsk.eagle:package:43437/1" value="CUS551V30,H3F"/>
 <part name="+3V12" library="supply1" deviceset="+3V3" device=""/>
 <part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1uF"/>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="L2" library="Wurth_EMC Components_WE-CBF" library_urn="urn:adsk.eagle:library:14283147" deviceset="WE-CBF_0603" device="_WB_HS" package3d_urn="urn:adsk.eagle:package:7784393/8" technology="_74279262" value="120ohm@100 MHz"/>
-<part name="R12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10R"/>
+<part name="R15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10R"/>
 <part name="JMP1" library="jump-0r-smd" library_urn="urn:adsk.eagle:library:251" deviceset="0R-JUMP" device="A" package3d_urn="urn:adsk.eagle:package:15385/1"/>
 <part name="JMP2" library="jump-0r-smd" library_urn="urn:adsk.eagle:library:251" deviceset="0R-JUMP" device="A" package3d_urn="urn:adsk.eagle:package:15385/1"/>
-<part name="C14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1u"/>
-<part name="C18" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
+<part name="C13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1u"/>
+<part name="C15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
 <part name="C22" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100n"/>
 <part name="C23" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="10u"/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
-<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="nc">
+<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="nc">
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -19555,23 +19555,23 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </spice>
 <variant name="STANDARD" populate="no"/>
 </part>
-<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="0R"/>
+<part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="0R"/>
 <part name="FAN-" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="1,6/0,8" device="" package3d_urn="urn:adsk.eagle:package:30830/1"/>
 <part name="FAN+" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="1,6/0,8" device="" package3d_urn="urn:adsk.eagle:package:30830/1"/>
 <part name="P+3" library="supply1" deviceset="+5V" device=""/>
 <part name="Q1" library="SparkFun-DiscreteSemi" library_urn="urn:adsk.eagle:library:514" deviceset="MOSFET-NCH" device="-AO3404A" package3d_urn="urn:adsk.eagle:package:38446/2" value="5.8A/30V/35mΩ"/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
-<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="100R"/>
+<part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="100R"/>
 <part name="D2" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="DIODE-" device="SOD323-R" package3d_urn="urn:adsk.eagle:package:43437/1" value="CUS551V30,H3F"/>
 <part name="GND22" library="supply1" deviceset="GND" device=""/>
 <part name="J7" library="Wurth_Connectors_WR-SMA" library_urn="urn:adsk.eagle:library:15011170" deviceset="60311002111526" device="" package3d_urn="urn:adsk.eagle:package:15011192/3" value="60311002111526"/>
 <part name="J8" library="Wurth_Connectors_WR-SMA" library_urn="urn:adsk.eagle:library:15011170" deviceset="60311002111526" device="" package3d_urn="urn:adsk.eagle:package:15011192/3" value="60311002111526"/>
-<part name="C17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="dnp">
+<part name="C14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="dnp">
 <variant name="STANDARD" populate="no"/>
 </part>
-<part name="R13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="0R"/>
-<part name="C21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="dnp">
+<part name="R16" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="0R"/>
+<part name="C19" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="dnp">
 <variant name="STANDARD" populate="no"/>
 </part>
 <part name="J5" library="Wurth_Connectors_WR-UMRF" library_urn="urn:adsk.eagle:library:27699748" deviceset="636101111001" device="" package3d_urn="urn:adsk.eagle:package:27699753/5" value="636101111001">
@@ -19580,8 +19580,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="J6" library="Wurth_Connectors_WR-UMRF" library_urn="urn:adsk.eagle:library:27699748" deviceset="636101111001" device="" package3d_urn="urn:adsk.eagle:package:27699753/5" value="636101111001">
 <variant name="STANDARD" populate="no"/>
 </part>
-<part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="4k7"/>
-<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="4k7"/>
+<part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="4k7"/>
+<part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="4k7"/>
 <part name="F1" library="Fuse" library_urn="urn:adsk.eagle:library:24934274" deviceset="1812L" device="" package3d_urn="urn:adsk.eagle:package:24934287/2" override_package3d_urn="urn:adsk.eagle:package:43533556/2" override_package_urn="urn:adsk.eagle:footprint:24934279/1" technology="150"/>
 <part name="TP1" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="TP15R" package3d_urn="urn:adsk.eagle:package:27968/1">
 <variant name="STANDARD" populate="no"/>
@@ -19592,7 +19592,14 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="TP3" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="TP15R" package3d_urn="urn:adsk.eagle:package:27968/1">
 <variant name="STANDARD" populate="no"/>
 </part>
-<part name="R14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="0R"/>
+<part name="R17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="0R"/>
+<part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0603" package3d_urn="urn:adsk.eagle:package:15822/2" value="green"/>
+<part name="LED2" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0603" package3d_urn="urn:adsk.eagle:package:15822/2" value="green"/>
+<part name="LED3" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0603" package3d_urn="urn:adsk.eagle:package:15822/2" value="green"/>
+<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
+<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
+<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
+<part name="GND23" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -19701,11 +19708,11 @@ RAK Hat: https://docs.rakwireless.com/Product-Categories/WisHat/RAK2287-RAK5146-
 <text x="144.78" y="236.22" size="1.27" layer="91">SRN6045TA-4R7M</text>
 <text x="15.24" y="10.16" size="1.27" layer="91">Fan on OpenWrt RasPi:
 https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/93975</text>
-<text x="40.64" y="116.84" size="1.778" layer="91" rot="R180">Place only one</text>
+<text x="55.88" y="116.84" size="1.778" layer="91" rot="R180">Place only one</text>
 <text x="363.22" y="116.84" size="1.778" layer="91">LoRa</text>
 <text x="363.22" y="101.6" size="1.778" layer="91">GNSS</text>
 <text x="350.52" y="129.54" size="1.778" layer="91" align="center">SMA -&gt; U.fl</text>
-<text x="177.8" y="137.16" size="1.778" layer="91" align="center">GPS Source Selection</text>
+<text x="193.04" y="137.16" size="1.778" layer="91" align="center">GPS Source Selection</text>
 <text x="38.1" y="238.76" size="1.27" layer="91">1.5A</text>
 </plain>
 <instances>
@@ -19730,41 +19737,41 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <attribute name="LAST_DATE_TIME" x="344.17" y="10.16" size="2.286" layer="94" font="vector"/>
 <attribute name="SHEET" x="357.505" y="5.08" size="2.54" layer="94" font="vector"/>
 </instance>
-<instance part="P+1" gate="1" x="58.42" y="167.64" smashed="yes">
-<attribute name="VALUE" x="55.88" y="162.56" size="1.778" layer="96" rot="R90"/>
+<instance part="P+1" gate="1" x="73.66" y="167.64" smashed="yes">
+<attribute name="VALUE" x="71.12" y="162.56" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND8" gate="1" x="58.42" y="137.16" smashed="yes">
-<attribute name="VALUE" x="55.88" y="134.62" size="1.778" layer="96"/>
+<instance part="GND8" gate="1" x="73.66" y="147.32" smashed="yes" rot="R180">
+<attribute name="VALUE" x="76.2" y="149.86" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="J2" gate="G$1" x="68.58" y="165.1" smashed="yes">
-<attribute name="NAME" x="68.58" y="167.64" size="1.5" layer="95" font="vector" ratio="10" align="top-left"/>
-<attribute name="VALUE" x="68.58" y="99.06" size="1.5" layer="96" font="vector" ratio="10"/>
+<instance part="J2" gate="G$1" x="83.82" y="165.1" smashed="yes">
+<attribute name="NAME" x="83.82" y="167.64" size="1.5" layer="95" font="vector" ratio="10" align="top-left"/>
+<attribute name="VALUE" x="83.82" y="99.06" size="1.5" layer="96" font="vector" ratio="10"/>
 </instance>
-<instance part="J3" gate="G$1" x="248.92" y="154.94" smashed="yes">
-<attribute name="NAME" x="248.92" y="156.21" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="248.92" y="110.49" size="1.778" layer="96" align="center-left"/>
+<instance part="J3" gate="G$1" x="264.16" y="154.94" smashed="yes">
+<attribute name="NAME" x="264.16" y="156.21" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="264.16" y="110.49" size="1.778" layer="96" align="center-left"/>
 </instance>
-<instance part="GND9" gate="1" x="218.44" y="109.22" smashed="yes">
-<attribute name="VALUE" x="215.9" y="106.68" size="1.778" layer="96"/>
+<instance part="GND9" gate="1" x="233.68" y="109.22" smashed="yes">
+<attribute name="VALUE" x="231.14" y="106.68" size="1.778" layer="96"/>
 </instance>
-<instance part="+3V2" gate="G$1" x="218.44" y="132.08" smashed="yes">
-<attribute name="VALUE" x="215.9" y="127" size="1.778" layer="96" rot="R90"/>
+<instance part="+3V2" gate="G$1" x="233.68" y="132.08" smashed="yes">
+<attribute name="VALUE" x="231.14" y="127" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="C13" gate="G$1" x="218.44" y="121.92" smashed="yes">
-<attribute name="NAME" x="219.964" y="122.301" size="1.778" layer="95"/>
-<attribute name="VALUE" x="216.916" y="118.999" size="1.778" layer="96" rot="R180"/>
-</instance>
-<instance part="C15" gate="G$1" x="223.52" y="121.92" smashed="yes">
-<attribute name="NAME" x="225.044" y="122.301" size="1.778" layer="95"/>
-</instance>
-<instance part="C16" gate="G$1" x="228.6" y="121.92" smashed="yes">
-<attribute name="NAME" x="230.124" y="122.301" size="1.778" layer="95"/>
-</instance>
-<instance part="C19" gate="G$1" x="233.68" y="121.92" smashed="yes">
+<instance part="C16" gate="G$1" x="233.68" y="121.92" smashed="yes">
 <attribute name="NAME" x="235.204" y="122.301" size="1.778" layer="95"/>
+<attribute name="VALUE" x="232.156" y="118.999" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C20" gate="G$1" x="238.76" y="121.92" smashed="yes">
+<instance part="C17" gate="G$1" x="238.76" y="121.92" smashed="yes">
 <attribute name="NAME" x="240.284" y="122.301" size="1.778" layer="95"/>
+</instance>
+<instance part="C18" gate="G$1" x="243.84" y="121.92" smashed="yes">
+<attribute name="NAME" x="245.364" y="122.301" size="1.778" layer="95"/>
+</instance>
+<instance part="C20" gate="G$1" x="248.92" y="121.92" smashed="yes">
+<attribute name="NAME" x="250.444" y="122.301" size="1.778" layer="95"/>
+</instance>
+<instance part="C21" gate="G$1" x="254" y="121.92" smashed="yes">
+<attribute name="NAME" x="255.524" y="122.301" size="1.778" layer="95"/>
 </instance>
 <instance part="U2" gate="A" x="170.18" y="76.2" smashed="yes">
 <attribute name="NAME" x="170.18" y="77.724" size="1.778" layer="95" ratio="6" rot="SR0" align="center-left"/>
@@ -19800,7 +19807,7 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <instance part="B1" gate="G$1" x="116.84" y="33.02" smashed="yes" rot="R270">
 <attribute name="NAME" x="119.38" y="35.306" size="1.778" layer="95" font="vector" rot="MR0" align="bottom-center"/>
 </instance>
-<instance part="R5" gate="G$1" x="116.84" y="53.34" smashed="yes" rot="R90">
+<instance part="R8" gate="G$1" x="116.84" y="53.34" smashed="yes" rot="R90">
 <attribute name="NAME" x="115.3414" y="49.53" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="120.142" y="49.53" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -19825,23 +19832,23 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <attribute name="NAME" x="241.3" y="48.26" size="1.778" layer="95" rot="R180" align="bottom-center"/>
 <attribute name="VALUE" x="251.46" y="45.72" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R12" gate="G$1" x="226.06" y="50.8" smashed="yes" rot="R180">
+<instance part="R15" gate="G$1" x="226.06" y="50.8" smashed="yes" rot="R180">
 <attribute name="NAME" x="229.87" y="49.3014" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="229.87" y="54.102" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="JMP1" gate="-0R" x="177.8" y="127" smashed="yes">
-<attribute name="NAME" x="180.34" y="128.27" size="1.778" layer="95"/>
+<instance part="JMP1" gate="-0R" x="193.04" y="127" smashed="yes">
+<attribute name="NAME" x="195.58" y="128.27" size="1.778" layer="95"/>
 </instance>
-<instance part="JMP1" gate="G$2" x="175.26" y="129.54" smashed="yes"/>
-<instance part="JMP2" gate="-0R" x="177.8" y="109.22" smashed="yes">
-<attribute name="NAME" x="180.34" y="110.49" size="1.778" layer="95"/>
+<instance part="JMP1" gate="G$2" x="190.5" y="129.54" smashed="yes"/>
+<instance part="JMP2" gate="-0R" x="193.04" y="109.22" smashed="yes">
+<attribute name="NAME" x="195.58" y="110.49" size="1.778" layer="95"/>
 </instance>
-<instance part="JMP2" gate="G$2" x="175.26" y="111.76" smashed="yes"/>
+<instance part="JMP2" gate="G$2" x="190.5" y="111.76" smashed="yes"/>
 <instance part="J1" gate="G$1" x="15.24" y="236.22" smashed="yes" rot="R90">
 <attribute name="NAME" x="16.445" y="231.23" size="1.016" layer="95" rot="R90" align="bottom-right"/>
 <attribute name="VALUE" x="18.25" y="231.27" size="1.016" layer="96" rot="R90" align="bottom-right"/>
 </instance>
-<instance part="LED1" gate="G$1" x="180.34" y="220.98" smashed="yes">
+<instance part="LED4" gate="G$1" x="180.34" y="220.98" smashed="yes">
 <attribute name="NAME" x="183.896" y="216.408" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="186.055" y="216.408" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -19872,15 +19879,15 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <attribute name="NAME" x="138.684" y="202.819" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="138.684" y="207.899" size="1.778" layer="96" rot="MR180"/>
 </instance>
-<instance part="R8" gate="G$1" x="129.54" y="205.74" smashed="yes" rot="MR90">
+<instance part="R9" gate="G$1" x="129.54" y="205.74" smashed="yes" rot="MR90">
 <attribute name="NAME" x="131.0386" y="201.93" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="126.238" y="201.93" size="1.778" layer="96" rot="MR90"/>
 </instance>
-<instance part="R9" gate="G$1" x="170.18" y="220.98" smashed="yes" rot="MR90">
+<instance part="R12" gate="G$1" x="170.18" y="220.98" smashed="yes" rot="MR90">
 <attribute name="NAME" x="171.6786" y="217.17" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="166.878" y="217.17" size="1.778" layer="96" rot="MR90"/>
 </instance>
-<instance part="R10" gate="G$1" x="170.18" y="203.2" smashed="yes" rot="MR90">
+<instance part="R13" gate="G$1" x="170.18" y="203.2" smashed="yes" rot="MR90">
 <attribute name="NAME" x="171.6786" y="199.39" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="166.878" y="199.39" size="1.778" layer="96" rot="MR90"/>
 </instance>
@@ -19903,7 +19910,7 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <instance part="P+4" gate="1" x="198.12" y="236.22" smashed="yes">
 <attribute name="VALUE" x="195.58" y="231.14" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R11" gate="G$1" x="180.34" y="203.2" smashed="yes" rot="MR90">
+<instance part="R14" gate="G$1" x="180.34" y="203.2" smashed="yes" rot="MR90">
 <attribute name="NAME" x="181.8386" y="199.39" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="177.038" y="199.39" size="1.778" layer="96" rot="MR90"/>
 </instance>
@@ -19961,11 +19968,11 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <instance part="+3V1" gate="G$1" x="271.78" y="238.76" smashed="yes">
 <attribute name="VALUE" x="269.24" y="233.68" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="C14" gate="G$1" x="220.98" y="220.98" smashed="yes">
+<instance part="C13" gate="G$1" x="220.98" y="220.98" smashed="yes">
 <attribute name="NAME" x="222.504" y="221.361" size="1.778" layer="95"/>
 <attribute name="VALUE" x="222.504" y="216.281" size="1.778" layer="96"/>
 </instance>
-<instance part="C18" gate="G$1" x="231.14" y="220.98" smashed="yes">
+<instance part="C15" gate="G$1" x="231.14" y="220.98" smashed="yes">
 <attribute name="NAME" x="232.664" y="221.361" size="1.778" layer="95"/>
 <attribute name="VALUE" x="232.664" y="216.281" size="1.778" layer="96"/>
 </instance>
@@ -19980,13 +19987,13 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <instance part="GND16" gate="1" x="350.52" y="96.52" smashed="yes">
 <attribute name="VALUE" x="347.98" y="93.98" size="1.778" layer="96"/>
 </instance>
-<instance part="R4" gate="G$1" x="50.8" y="114.3" smashed="yes" rot="MR0">
-<attribute name="NAME" x="54.61" y="115.7986" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="54.61" y="110.998" size="1.778" layer="96" rot="MR0"/>
+<instance part="R7" gate="G$1" x="66.04" y="114.3" smashed="yes" rot="MR0">
+<attribute name="NAME" x="69.85" y="115.7986" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="69.85" y="110.998" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="R3" gate="G$1" x="50.8" y="121.92" smashed="yes" rot="MR0">
-<attribute name="NAME" x="54.61" y="123.4186" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="54.61" y="118.618" size="1.778" layer="96" rot="MR0"/>
+<instance part="R6" gate="G$1" x="66.04" y="121.92" smashed="yes" rot="MR0">
+<attribute name="NAME" x="62.23" y="123.4186" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="62.23" y="118.618" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="FAN-" gate="P" x="60.96" y="53.34" smashed="yes" rot="R180">
 <attribute name="NAME" x="62.103" y="51.4858" size="1.778" layer="95" rot="R180"/>
@@ -20010,7 +20017,7 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <attribute name="NAME" x="23.9014" y="29.21" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="28.702" y="29.21" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R2" gate="G$1" x="33.02" y="40.64" smashed="yes" rot="R180">
+<instance part="R5" gate="G$1" x="33.02" y="40.64" smashed="yes" rot="R180">
 <attribute name="NAME" x="36.83" y="39.1414" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="36.83" y="43.942" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -20027,15 +20034,15 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <instance part="J8" gate="G$1" x="360.68" y="106.68" smashed="yes" rot="MR0">
 <attribute name="NAME" x="360.68" y="110.236" size="1.778" layer="95" rot="MR0" align="bottom-center"/>
 </instance>
-<instance part="C17" gate="G$1" x="228.6" y="66.04" smashed="yes" rot="R180">
+<instance part="C14" gate="G$1" x="228.6" y="66.04" smashed="yes" rot="R180">
 <attribute name="NAME" x="227.076" y="65.659" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="227.076" y="70.739" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R13" gate="G$1" x="236.22" y="73.66" smashed="yes" rot="R180">
+<instance part="R16" gate="G$1" x="236.22" y="73.66" smashed="yes" rot="R180">
 <attribute name="NAME" x="240.03" y="72.1614" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="240.03" y="76.962" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C21" gate="G$1" x="243.84" y="66.04" smashed="yes" rot="MR180">
+<instance part="C19" gate="G$1" x="243.84" y="66.04" smashed="yes" rot="MR180">
 <attribute name="NAME" x="245.364" y="65.659" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="245.364" y="70.739" size="1.778" layer="96" rot="MR180"/>
 </instance>
@@ -20047,13 +20054,13 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <attribute name="NAME" x="337.82" y="110.236" size="1.778" layer="95" align="bottom-center"/>
 <attribute name="VALUE" x="337.82" y="99.06" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="R6" gate="G$1" x="119.38" y="167.64" smashed="yes" rot="MR90">
-<attribute name="NAME" x="118.11" y="166.5986" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="118.11" y="169.418" size="1.778" layer="96" rot="MR0"/>
+<instance part="R10" gate="G$1" x="134.62" y="167.64" smashed="yes" rot="MR90">
+<attribute name="NAME" x="133.35" y="166.5986" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="133.35" y="169.418" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="R7" gate="G$1" x="124.46" y="167.64" smashed="yes" rot="MR90">
-<attribute name="NAME" x="125.73" y="168.6814" size="1.778" layer="95" rot="MR180"/>
-<attribute name="VALUE" x="125.73" y="170.942" size="1.778" layer="96" rot="MR180"/>
+<instance part="R11" gate="G$1" x="139.7" y="167.64" smashed="yes" rot="MR90">
+<attribute name="NAME" x="140.97" y="168.6814" size="1.778" layer="95" rot="MR180"/>
+<attribute name="VALUE" x="140.97" y="170.942" size="1.778" layer="96" rot="MR180"/>
 </instance>
 <instance part="F1" gate="G$1" x="35.56" y="236.22" smashed="yes">
 <attribute name="NAME" x="35.56" y="238.72" size="1.778" layer="95" align="center"/>
@@ -20071,9 +20078,36 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <attribute name="NAME" x="158.75" y="67.31" size="1.778" layer="95" rot="MR0"/>
 <attribute name="TP_SIGNAL_NAME" x="161.29" y="67.31" size="1.778" layer="97" rot="MR270"/>
 </instance>
-<instance part="R14" gate="G$1" x="287.02" y="121.92" smashed="yes" rot="R180">
-<attribute name="NAME" x="285.75" y="128.0414" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="288.29" y="126.238" size="1.778" layer="96"/>
+<instance part="R17" gate="G$1" x="302.26" y="121.92" smashed="yes" rot="R180">
+<attribute name="NAME" x="300.99" y="128.0414" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="303.53" y="126.238" size="1.778" layer="96"/>
+</instance>
+<instance part="LED1" gate="G$1" x="45.72" y="154.94" smashed="yes" rot="R270">
+<attribute name="NAME" x="41.148" y="151.384" size="1.778" layer="95"/>
+<attribute name="VALUE" x="41.148" y="149.225" size="1.778" layer="96"/>
+</instance>
+<instance part="LED2" gate="G$1" x="45.72" y="144.78" smashed="yes" rot="R270">
+<attribute name="NAME" x="41.148" y="141.224" size="1.778" layer="95"/>
+<attribute name="VALUE" x="41.148" y="139.065" size="1.778" layer="96"/>
+</instance>
+<instance part="LED3" gate="G$1" x="45.72" y="134.62" smashed="yes" rot="R270">
+<attribute name="NAME" x="41.148" y="131.064" size="1.778" layer="95"/>
+<attribute name="VALUE" x="41.148" y="128.905" size="1.778" layer="96"/>
+</instance>
+<instance part="R2" gate="G$1" x="33.02" y="154.94" smashed="yes" rot="MR0">
+<attribute name="NAME" x="36.83" y="156.4386" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="36.83" y="151.638" size="1.778" layer="96" rot="MR0"/>
+</instance>
+<instance part="R3" gate="G$1" x="33.02" y="144.78" smashed="yes" rot="MR0">
+<attribute name="NAME" x="36.83" y="146.2786" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="36.83" y="141.478" size="1.778" layer="96" rot="MR0"/>
+</instance>
+<instance part="R4" gate="G$1" x="33.02" y="134.62" smashed="yes" rot="MR0">
+<attribute name="NAME" x="36.83" y="136.1186" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="36.83" y="131.318" size="1.778" layer="96" rot="MR0"/>
+</instance>
+<instance part="GND23" gate="1" x="25.4" y="119.38" smashed="yes">
+<attribute name="VALUE" x="22.86" y="116.84" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -20083,33 +20117,33 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <segment>
 <pinref part="J2" gate="G$1" pin="GND"/>
 <pinref part="GND8" gate="1" pin="GND"/>
-<wire x1="63.5" y1="142.24" x2="58.42" y2="142.24" width="0.1524" layer="91"/>
-<wire x1="58.42" y1="142.24" x2="58.42" y2="139.7" width="0.1524" layer="91"/>
+<wire x1="78.74" y1="142.24" x2="73.66" y2="142.24" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="142.24" x2="73.66" y2="144.78" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND9" gate="1" pin="GND"/>
-<pinref part="C13" gate="G$1" pin="2"/>
-<wire x1="218.44" y1="116.84" x2="218.44" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="J3" gate="G$1" pin="GND"/>
-<wire x1="218.44" y1="114.3" x2="218.44" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="243.84" y1="114.3" x2="238.76" y2="114.3" width="0.1524" layer="91"/>
-<junction x="218.44" y="114.3"/>
-<pinref part="C15" gate="G$1" pin="2"/>
-<wire x1="238.76" y1="114.3" x2="233.68" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="233.68" y1="114.3" x2="228.6" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="228.6" y1="114.3" x2="223.52" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="223.52" y1="114.3" x2="218.44" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="223.52" y1="116.84" x2="223.52" y2="114.3" width="0.1524" layer="91"/>
-<junction x="223.52" y="114.3"/>
 <pinref part="C16" gate="G$1" pin="2"/>
-<wire x1="228.6" y1="116.84" x2="228.6" y2="114.3" width="0.1524" layer="91"/>
-<junction x="228.6" y="114.3"/>
-<pinref part="C19" gate="G$1" pin="2"/>
 <wire x1="233.68" y1="116.84" x2="233.68" y2="114.3" width="0.1524" layer="91"/>
+<pinref part="J3" gate="G$1" pin="GND"/>
+<wire x1="233.68" y1="114.3" x2="233.68" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="259.08" y1="114.3" x2="254" y2="114.3" width="0.1524" layer="91"/>
 <junction x="233.68" y="114.3"/>
-<pinref part="C20" gate="G$1" pin="2"/>
+<pinref part="C17" gate="G$1" pin="2"/>
+<wire x1="254" y1="114.3" x2="248.92" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="248.92" y1="114.3" x2="243.84" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="243.84" y1="114.3" x2="238.76" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="238.76" y1="114.3" x2="233.68" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="238.76" y1="116.84" x2="238.76" y2="114.3" width="0.1524" layer="91"/>
 <junction x="238.76" y="114.3"/>
+<pinref part="C18" gate="G$1" pin="2"/>
+<wire x1="243.84" y1="116.84" x2="243.84" y2="114.3" width="0.1524" layer="91"/>
+<junction x="243.84" y="114.3"/>
+<pinref part="C20" gate="G$1" pin="2"/>
+<wire x1="248.92" y1="116.84" x2="248.92" y2="114.3" width="0.1524" layer="91"/>
+<junction x="248.92" y="114.3"/>
+<pinref part="C21" gate="G$1" pin="2"/>
+<wire x1="254" y1="116.84" x2="254" y2="114.3" width="0.1524" layer="91"/>
+<junction x="254" y="114.3"/>
 </segment>
 <segment>
 <pinref part="U2" gate="A" pin="GND"/>
@@ -20156,13 +20190,13 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <wire x1="137.16" y1="193.04" x2="137.16" y2="200.66" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R10" gate="G$1" pin="1"/>
+<pinref part="R13" gate="G$1" pin="1"/>
 <pinref part="GND13" gate="1" pin="GND"/>
 <wire x1="170.18" y1="193.04" x2="170.18" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND5" gate="1" pin="GND"/>
-<pinref part="R11" gate="G$1" pin="1"/>
+<pinref part="R14" gate="G$1" pin="1"/>
 <wire x1="180.34" y1="193.04" x2="180.34" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -20202,12 +20236,12 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <pinref part="U3" gate="G$1" pin="GND"/>
 <pinref part="GND10" gate="1" pin="GND"/>
 <wire x1="246.38" y1="210.82" x2="246.38" y2="213.36" width="0.1524" layer="91"/>
-<pinref part="C18" gate="G$1" pin="2"/>
+<pinref part="C15" gate="G$1" pin="2"/>
 <wire x1="246.38" y1="213.36" x2="246.38" y2="215.9" width="0.1524" layer="91"/>
 <wire x1="246.38" y1="213.36" x2="231.14" y2="213.36" width="0.1524" layer="91"/>
 <wire x1="231.14" y1="213.36" x2="231.14" y2="215.9" width="0.1524" layer="91"/>
 <junction x="246.38" y="213.36"/>
-<pinref part="C14" gate="G$1" pin="2"/>
+<pinref part="C13" gate="G$1" pin="2"/>
 <wire x1="220.98" y1="215.9" x2="220.98" y2="213.36" width="0.1524" layer="91"/>
 <wire x1="220.98" y1="213.36" x2="231.14" y2="213.36" width="0.1524" layer="91"/>
 <junction x="231.14" y="213.36"/>
@@ -20245,27 +20279,41 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <wire x1="345.44" y1="101.6" x2="350.52" y2="101.6" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="C17" gate="G$1" pin="1"/>
+<pinref part="C14" gate="G$1" pin="1"/>
 <pinref part="GND12" gate="1" pin="GND"/>
 <wire x1="228.6" y1="60.96" x2="228.6" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND14" gate="1" pin="GND"/>
-<pinref part="C21" gate="G$1" pin="1"/>
+<pinref part="C19" gate="G$1" pin="1"/>
 <wire x1="243.84" y1="60.96" x2="243.84" y2="63.5" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="R2" gate="G$1" pin="2"/>
+<wire x1="27.94" y1="154.94" x2="25.4" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="154.94" x2="25.4" y2="144.78" width="0.1524" layer="91"/>
+<pinref part="R4" gate="G$1" pin="2"/>
+<wire x1="25.4" y1="144.78" x2="25.4" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="134.62" x2="25.4" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="134.62" x2="25.4" y2="134.62" width="0.1524" layer="91"/>
+<junction x="25.4" y="134.62"/>
+<pinref part="R3" gate="G$1" pin="2"/>
+<wire x1="27.94" y1="144.78" x2="25.4" y2="144.78" width="0.1524" layer="91"/>
+<junction x="25.4" y="144.78"/>
+<pinref part="GND23" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="+5V" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="5V0_IN"/>
 <pinref part="P+1" gate="1" pin="+5V"/>
-<wire x1="63.5" y1="162.56" x2="58.42" y2="162.56" width="0.1524" layer="91"/>
-<wire x1="58.42" y1="162.56" x2="58.42" y2="165.1" width="0.1524" layer="91"/>
+<wire x1="78.74" y1="162.56" x2="73.66" y2="162.56" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="162.56" x2="73.66" y2="165.1" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="L1" gate="G$1" pin="2"/>
 <wire x1="160.02" y1="228.6" x2="162.56" y2="228.6" width="0.1524" layer="91"/>
-<pinref part="R9" gate="G$1" pin="2"/>
+<pinref part="R12" gate="G$1" pin="2"/>
 <wire x1="162.56" y1="228.6" x2="170.18" y2="228.6" width="0.1524" layer="91"/>
 <wire x1="170.18" y1="228.6" x2="180.34" y2="228.6" width="0.1524" layer="91"/>
 <wire x1="180.34" y1="228.6" x2="190.5" y2="228.6" width="0.1524" layer="91"/>
@@ -20277,7 +20325,7 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <junction x="162.56" y="228.6"/>
 <pinref part="P+4" gate="1" pin="+5V"/>
 <wire x1="198.12" y1="233.68" x2="198.12" y2="228.6" width="0.1524" layer="91"/>
-<pinref part="LED1" gate="G$1" pin="A"/>
+<pinref part="LED4" gate="G$1" pin="A"/>
 <wire x1="180.34" y1="223.52" x2="180.34" y2="228.6" width="0.1524" layer="91"/>
 <junction x="180.34" y="228.6"/>
 <pinref part="C11" gate="G$1" pin="1"/>
@@ -20293,10 +20341,10 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <wire x1="233.68" y1="228.6" x2="231.14" y2="228.6" width="0.1524" layer="91"/>
 <wire x1="231.14" y1="228.6" x2="220.98" y2="228.6" width="0.1524" layer="91"/>
 <wire x1="220.98" y1="228.6" x2="220.98" y2="233.68" width="0.1524" layer="91"/>
-<pinref part="C14" gate="G$1" pin="1"/>
+<pinref part="C13" gate="G$1" pin="1"/>
 <wire x1="220.98" y1="223.52" x2="220.98" y2="228.6" width="0.1524" layer="91"/>
 <junction x="220.98" y="228.6"/>
-<pinref part="C18" gate="G$1" pin="1"/>
+<pinref part="C15" gate="G$1" pin="1"/>
 <wire x1="231.14" y1="223.52" x2="231.14" y2="228.6" width="0.1524" layer="91"/>
 <junction x="231.14" y="228.6"/>
 </segment>
@@ -20314,27 +20362,27 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <segment>
 <pinref part="J3" gate="G$1" pin="3V3"/>
 <pinref part="+3V2" gate="G$1" pin="+3V3"/>
+<wire x1="259.08" y1="127" x2="254" y2="127" width="0.1524" layer="91"/>
+<wire x1="254" y1="127" x2="248.92" y2="127" width="0.1524" layer="91"/>
+<wire x1="248.92" y1="127" x2="243.84" y2="127" width="0.1524" layer="91"/>
 <wire x1="243.84" y1="127" x2="238.76" y2="127" width="0.1524" layer="91"/>
 <wire x1="238.76" y1="127" x2="233.68" y2="127" width="0.1524" layer="91"/>
-<wire x1="233.68" y1="127" x2="228.6" y2="127" width="0.1524" layer="91"/>
-<wire x1="228.6" y1="127" x2="223.52" y2="127" width="0.1524" layer="91"/>
-<wire x1="223.52" y1="127" x2="218.44" y2="127" width="0.1524" layer="91"/>
-<wire x1="218.44" y1="127" x2="218.44" y2="129.54" width="0.1524" layer="91"/>
-<pinref part="C13" gate="G$1" pin="1"/>
-<wire x1="218.44" y1="124.46" x2="218.44" y2="127" width="0.1524" layer="91"/>
-<junction x="218.44" y="127"/>
-<pinref part="C15" gate="G$1" pin="1"/>
-<wire x1="223.52" y1="124.46" x2="223.52" y2="127" width="0.1524" layer="91"/>
-<junction x="223.52" y="127"/>
+<wire x1="233.68" y1="127" x2="233.68" y2="129.54" width="0.1524" layer="91"/>
 <pinref part="C16" gate="G$1" pin="1"/>
-<wire x1="228.6" y1="124.46" x2="228.6" y2="127" width="0.1524" layer="91"/>
-<junction x="228.6" y="127"/>
-<pinref part="C19" gate="G$1" pin="1"/>
 <wire x1="233.68" y1="124.46" x2="233.68" y2="127" width="0.1524" layer="91"/>
 <junction x="233.68" y="127"/>
-<pinref part="C20" gate="G$1" pin="1"/>
+<pinref part="C17" gate="G$1" pin="1"/>
 <wire x1="238.76" y1="124.46" x2="238.76" y2="127" width="0.1524" layer="91"/>
 <junction x="238.76" y="127"/>
+<pinref part="C18" gate="G$1" pin="1"/>
+<wire x1="243.84" y1="124.46" x2="243.84" y2="127" width="0.1524" layer="91"/>
+<junction x="243.84" y="127"/>
+<pinref part="C20" gate="G$1" pin="1"/>
+<wire x1="248.92" y1="124.46" x2="248.92" y2="127" width="0.1524" layer="91"/>
+<junction x="248.92" y="127"/>
+<pinref part="C21" gate="G$1" pin="1"/>
+<wire x1="254" y1="124.46" x2="254" y2="127" width="0.1524" layer="91"/>
+<junction x="254" y="127"/>
 </segment>
 <segment>
 <pinref part="U2" gate="A" pin="VCC"/>
@@ -20371,105 +20419,105 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <net name="SPI_CLK" class="0">
 <segment>
 <pinref part="J3" gate="G$1" pin="SPI_CLK"/>
-<wire x1="236.22" y1="147.32" x2="243.84" y2="147.32" width="0.1524" layer="91"/>
-<label x="236.22" y="147.32" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="251.46" y1="147.32" x2="259.08" y2="147.32" width="0.1524" layer="91"/>
+<label x="251.46" y="147.32" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="111.76" y1="137.16" x2="121.92" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="127" y1="137.16" x2="137.16" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="GPIO11(SCLK)"/>
-<label x="121.92" y="137.16" size="1.27" layer="95" xref="yes"/>
+<label x="137.16" y="137.16" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="SPI_MISO" class="0">
 <segment>
 <pinref part="J3" gate="G$1" pin="SPI_MISO"/>
-<wire x1="236.22" y1="144.78" x2="243.84" y2="144.78" width="0.1524" layer="91"/>
-<label x="236.22" y="144.78" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="251.46" y1="144.78" x2="259.08" y2="144.78" width="0.1524" layer="91"/>
+<label x="251.46" y="144.78" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="111.76" y1="142.24" x2="121.92" y2="142.24" width="0.1524" layer="91"/>
+<wire x1="127" y1="142.24" x2="137.16" y2="142.24" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="GPIO9(MISO)"/>
-<label x="121.92" y="142.24" size="1.27" layer="95" xref="yes"/>
+<label x="137.16" y="142.24" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="SP_MOSI" class="0">
 <segment>
 <pinref part="J3" gate="G$1" pin="SPI_MOSI"/>
-<wire x1="236.22" y1="142.24" x2="243.84" y2="142.24" width="0.1524" layer="91"/>
-<label x="236.22" y="142.24" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="251.46" y1="142.24" x2="259.08" y2="142.24" width="0.1524" layer="91"/>
+<label x="251.46" y="142.24" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="111.76" y1="139.7" x2="121.92" y2="139.7" width="0.1524" layer="91"/>
+<wire x1="127" y1="139.7" x2="137.16" y2="139.7" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="GPIO10(MOSI)"/>
-<label x="121.92" y="139.7" size="1.27" layer="95" xref="yes"/>
+<label x="137.16" y="139.7" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="LORA_!CS" class="0">
 <segment>
 <pinref part="J3" gate="G$1" pin="SPI_!CS"/>
-<wire x1="236.22" y1="139.7" x2="243.84" y2="139.7" width="0.1524" layer="91"/>
-<label x="236.22" y="139.7" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="251.46" y1="139.7" x2="259.08" y2="139.7" width="0.1524" layer="91"/>
+<label x="251.46" y="139.7" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="111.76" y1="144.78" x2="121.92" y2="144.78" width="0.1524" layer="91"/>
+<wire x1="127" y1="144.78" x2="137.16" y2="144.78" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="GPIO8(CE0)"/>
-<label x="121.92" y="144.78" size="1.27" layer="95" xref="yes"/>
+<label x="137.16" y="144.78" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="I2C_SDA" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="GPIO2/SDA"/>
-<wire x1="134.62" y1="154.94" x2="124.46" y2="154.94" width="0.1524" layer="91"/>
-<label x="134.62" y="154.94" size="1.27" layer="95" xref="yes"/>
-<pinref part="R7" gate="G$1" pin="1"/>
-<wire x1="124.46" y1="154.94" x2="111.76" y2="154.94" width="0.1524" layer="91"/>
-<wire x1="124.46" y1="162.56" x2="124.46" y2="154.94" width="0.1524" layer="91"/>
-<junction x="124.46" y="154.94"/>
+<wire x1="149.86" y1="154.94" x2="139.7" y2="154.94" width="0.1524" layer="91"/>
+<label x="149.86" y="154.94" size="1.27" layer="95" xref="yes"/>
+<pinref part="R11" gate="G$1" pin="1"/>
+<wire x1="139.7" y1="154.94" x2="127" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="139.7" y1="162.56" x2="139.7" y2="154.94" width="0.1524" layer="91"/>
+<junction x="139.7" y="154.94"/>
 </segment>
 <segment>
 <pinref part="J3" gate="G$1" pin="I2C_SDA"/>
-<wire x1="236.22" y1="132.08" x2="243.84" y2="132.08" width="0.1524" layer="91"/>
-<label x="236.22" y="132.08" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="251.46" y1="132.08" x2="259.08" y2="132.08" width="0.1524" layer="91"/>
+<label x="251.46" y="132.08" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="I2C_SCL" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="GPIO3/SCL"/>
-<wire x1="134.62" y1="152.4" x2="119.38" y2="152.4" width="0.1524" layer="91"/>
-<label x="134.62" y="152.4" size="1.27" layer="95" xref="yes"/>
-<pinref part="R6" gate="G$1" pin="1"/>
-<wire x1="119.38" y1="152.4" x2="111.76" y2="152.4" width="0.1524" layer="91"/>
-<wire x1="119.38" y1="162.56" x2="119.38" y2="152.4" width="0.1524" layer="91"/>
-<junction x="119.38" y="152.4"/>
+<wire x1="149.86" y1="152.4" x2="134.62" y2="152.4" width="0.1524" layer="91"/>
+<label x="149.86" y="152.4" size="1.27" layer="95" xref="yes"/>
+<pinref part="R10" gate="G$1" pin="1"/>
+<wire x1="134.62" y1="152.4" x2="127" y2="152.4" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="162.56" x2="134.62" y2="152.4" width="0.1524" layer="91"/>
+<junction x="134.62" y="152.4"/>
 </segment>
 <segment>
 <pinref part="J3" gate="G$1" pin="I2C_SCL"/>
-<wire x1="236.22" y1="134.62" x2="243.84" y2="134.62" width="0.1524" layer="91"/>
-<label x="236.22" y="134.62" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="251.46" y1="134.62" x2="259.08" y2="134.62" width="0.1524" layer="91"/>
+<label x="251.46" y="134.62" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="LORA_RESET" class="0">
 <segment>
 <pinref part="J3" gate="G$1" pin="SX1302_RESET"/>
-<wire x1="236.22" y1="152.4" x2="243.84" y2="152.4" width="0.1524" layer="91"/>
-<label x="236.22" y="152.4" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="251.46" y1="152.4" x2="259.08" y2="152.4" width="0.1524" layer="91"/>
+<label x="251.46" y="152.4" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R4" gate="G$1" pin="2"/>
-<pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="43.18" y1="114.3" x2="45.72" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="121.92" x2="43.18" y2="121.92" width="0.1524" layer="91"/>
-<wire x1="43.18" y1="121.92" x2="43.18" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="33.02" y1="121.92" x2="43.18" y2="121.92" width="0.1524" layer="91"/>
-<junction x="43.18" y="121.92"/>
-<label x="33.02" y="121.92" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="R7" gate="G$1" pin="2"/>
+<pinref part="R6" gate="G$1" pin="2"/>
+<wire x1="58.42" y1="114.3" x2="60.96" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="121.92" x2="58.42" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="121.92" x2="58.42" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="121.92" x2="58.42" y2="121.92" width="0.1524" layer="91"/>
+<junction x="58.42" y="121.92"/>
+<label x="48.26" y="121.92" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="GPS_STBY" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="GPIO12(PWM0)"/>
-<wire x1="121.92" y1="111.76" x2="111.76" y2="111.76" width="0.1524" layer="91"/>
-<label x="121.92" y="111.76" size="1.27" layer="95" xref="yes"/>
+<wire x1="137.16" y1="111.76" x2="127" y2="111.76" width="0.1524" layer="91"/>
+<label x="137.16" y="111.76" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U2" gate="A" pin="STANDBY"/>
@@ -20477,57 +20525,57 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <label x="160.02" y="63.5" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="294.64" y1="121.92" x2="292.1" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="R14" gate="G$1" pin="1"/>
-<label x="294.64" y="121.92" size="1.27" layer="95" xref="yes"/>
+<wire x1="309.88" y1="121.92" x2="307.34" y2="121.92" width="0.1524" layer="91"/>
+<pinref part="R17" gate="G$1" pin="1"/>
+<label x="309.88" y="121.92" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="GPS_TXD" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="GPIO15(RXD)"/>
-<wire x1="121.92" y1="129.54" x2="111.76" y2="129.54" width="0.1524" layer="91"/>
-<label x="121.92" y="129.54" size="1.27" layer="95" xref="yes"/>
+<wire x1="137.16" y1="129.54" x2="127" y2="129.54" width="0.1524" layer="91"/>
+<label x="137.16" y="129.54" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="JMP1" gate="-0R" pin="2"/>
-<wire x1="190.5" y1="127" x2="180.34" y2="127" width="0.1524" layer="91"/>
-<label x="190.5" y="127" size="1.27" layer="95" xref="yes"/>
+<wire x1="205.74" y1="127" x2="195.58" y2="127" width="0.1524" layer="91"/>
+<label x="205.74" y="127" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="GPS_RXD" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="GPIO14(TXD)"/>
-<wire x1="121.92" y1="132.08" x2="111.76" y2="132.08" width="0.1524" layer="91"/>
-<label x="121.92" y="132.08" size="1.27" layer="95" xref="yes"/>
+<wire x1="137.16" y1="132.08" x2="127" y2="132.08" width="0.1524" layer="91"/>
+<label x="137.16" y="132.08" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="JMP2" gate="-0R" pin="2"/>
-<wire x1="190.5" y1="109.22" x2="180.34" y2="109.22" width="0.1524" layer="91"/>
-<label x="190.5" y="109.22" size="1.27" layer="95" xref="yes"/>
+<wire x1="205.74" y1="109.22" x2="195.58" y2="109.22" width="0.1524" layer="91"/>
+<label x="205.74" y="109.22" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="SX1302_GPIO6" class="0">
 <segment>
 <pinref part="J3" gate="G$1" pin="GPIO6"/>
-<wire x1="281.94" y1="114.3" x2="279.4" y2="114.3" width="0.1524" layer="91"/>
-<label x="281.94" y="114.3" size="1.27" layer="95" xref="yes"/>
+<wire x1="297.18" y1="114.3" x2="294.64" y2="114.3" width="0.1524" layer="91"/>
+<label x="297.18" y="114.3" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="GPIO7(CE1)"/>
-<wire x1="121.92" y1="147.32" x2="111.76" y2="147.32" width="0.1524" layer="91"/>
-<label x="121.92" y="147.32" size="1.27" layer="95" xref="yes"/>
+<wire x1="137.16" y1="147.32" x2="127" y2="147.32" width="0.1524" layer="91"/>
+<label x="137.16" y="147.32" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="GPS_RESET" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="GPIO25"/>
-<wire x1="55.88" y1="109.22" x2="63.5" y2="109.22" width="0.1524" layer="91"/>
-<label x="55.88" y="109.22" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="71.12" y1="109.22" x2="78.74" y2="109.22" width="0.1524" layer="91"/>
+<label x="71.12" y="109.22" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J3" gate="G$1" pin="GPS_RES"/>
-<wire x1="279.4" y1="124.46" x2="281.94" y2="124.46" width="0.1524" layer="91"/>
-<label x="281.94" y="124.46" size="1.27" layer="95" xref="yes"/>
+<wire x1="294.64" y1="124.46" x2="297.18" y2="124.46" width="0.1524" layer="91"/>
+<label x="297.18" y="124.46" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U2" gate="A" pin="RESET"/>
@@ -20542,8 +20590,8 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <wire x1="228.6" y1="73.66" x2="231.14" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="228.6" y1="71.12" x2="228.6" y2="73.66" width="0.1524" layer="91"/>
 <junction x="228.6" y="73.66"/>
-<pinref part="C17" gate="G$1" pin="2"/>
-<pinref part="R13" gate="G$1" pin="2"/>
+<pinref part="C14" gate="G$1" pin="2"/>
+<pinref part="R16" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="RF_CON" class="1">
@@ -20558,20 +20606,20 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <wire x1="248.92" y1="50.8" x2="254" y2="50.8" width="0.1524" layer="91"/>
 <wire x1="254" y1="50.8" x2="254" y2="73.66" width="0.1524" layer="91"/>
 <junction x="254" y="73.66"/>
-<pinref part="R13" gate="G$1" pin="1"/>
-<pinref part="C21" gate="G$1" pin="2"/>
+<pinref part="R16" gate="G$1" pin="1"/>
+<pinref part="C19" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
-<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="R8" gate="G$1" pin="2"/>
 <pinref part="D3" gate="G$1" pin="C"/>
 <wire x1="116.84" y1="60.96" x2="116.84" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="VBAT" class="0">
 <segment>
-<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="R8" gate="G$1" pin="1"/>
 <pinref part="B1" gate="G$1" pin="+"/>
 <wire x1="116.84" y1="38.1" x2="116.84" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="45.72" x2="116.84" y2="48.26" width="0.1524" layer="91"/>
@@ -20587,13 +20635,13 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <net name="N$4" class="0">
 <segment>
 <pinref part="L2" gate="G$1" pin="2"/>
-<pinref part="R12" gate="G$1" pin="1"/>
+<pinref part="R15" gate="G$1" pin="1"/>
 <wire x1="231.14" y1="50.8" x2="233.68" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$10" class="0">
 <segment>
-<pinref part="R12" gate="G$1" pin="2"/>
+<pinref part="R15" gate="G$1" pin="2"/>
 <wire x1="220.98" y1="50.8" x2="215.9" y2="50.8" width="0.1524" layer="91"/>
 <wire x1="215.9" y1="50.8" x2="215.9" y2="58.42" width="0.1524" layer="91"/>
 <pinref part="U2" gate="A" pin="VCC_RF"/>
@@ -20603,27 +20651,27 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <net name="LORA_GPS_TXD" class="0">
 <segment>
 <pinref part="J3" gate="G$1" pin="GPS_TXD"/>
-<wire x1="281.94" y1="119.38" x2="279.4" y2="119.38" width="0.1524" layer="91"/>
-<label x="281.94" y="119.38" size="1.27" layer="95" xref="yes"/>
+<wire x1="297.18" y1="119.38" x2="294.64" y2="119.38" width="0.1524" layer="91"/>
+<label x="297.18" y="119.38" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="JMP1" gate="-0R" pin="1"/>
-<wire x1="177.8" y1="129.54" x2="177.8" y2="132.08" width="0.1524" layer="91"/>
-<wire x1="177.8" y1="132.08" x2="172.72" y2="132.08" width="0.1524" layer="91"/>
-<label x="172.72" y="132.08" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="193.04" y1="129.54" x2="193.04" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="132.08" x2="187.96" y2="132.08" width="0.1524" layer="91"/>
+<label x="187.96" y="132.08" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="LORA_GPS_RXD" class="0">
 <segment>
 <pinref part="J3" gate="G$1" pin="GPS_RXD"/>
-<wire x1="281.94" y1="116.84" x2="279.4" y2="116.84" width="0.1524" layer="91"/>
-<label x="281.94" y="116.84" size="1.27" layer="95" xref="yes"/>
+<wire x1="297.18" y1="116.84" x2="294.64" y2="116.84" width="0.1524" layer="91"/>
+<label x="297.18" y="116.84" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="JMP2" gate="-0R" pin="1"/>
-<wire x1="177.8" y1="111.76" x2="177.8" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="177.8" y1="114.3" x2="172.72" y2="114.3" width="0.1524" layer="91"/>
-<label x="172.72" y="114.3" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="193.04" y1="111.76" x2="193.04" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="114.3" x2="187.96" y2="114.3" width="0.1524" layer="91"/>
+<label x="187.96" y="114.3" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="L76_GPS_RXD" class="0">
@@ -20634,9 +20682,9 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 </segment>
 <segment>
 <pinref part="JMP2" gate="-0R" pin="3"/>
-<wire x1="177.8" y1="106.68" x2="177.8" y2="104.14" width="0.1524" layer="91"/>
-<wire x1="177.8" y1="104.14" x2="172.72" y2="104.14" width="0.1524" layer="91"/>
-<label x="172.72" y="104.14" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="193.04" y1="106.68" x2="193.04" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="104.14" x2="187.96" y2="104.14" width="0.1524" layer="91"/>
+<label x="187.96" y="104.14" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="L76_GPS_TXD" class="0">
@@ -20647,9 +20695,9 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 </segment>
 <segment>
 <pinref part="JMP1" gate="-0R" pin="3"/>
-<wire x1="177.8" y1="124.46" x2="177.8" y2="121.92" width="0.1524" layer="91"/>
-<wire x1="177.8" y1="121.92" x2="172.72" y2="121.92" width="0.1524" layer="91"/>
-<label x="172.72" y="121.92" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="193.04" y1="124.46" x2="193.04" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="121.92" x2="187.96" y2="121.92" width="0.1524" layer="91"/>
+<label x="187.96" y="121.92" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$2" class="0">
@@ -20667,7 +20715,7 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <wire x1="127" y1="213.36" x2="129.54" y2="213.36" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="213.36" x2="137.16" y2="213.36" width="0.1524" layer="91"/>
 <wire x1="137.16" y1="213.36" x2="137.16" y2="208.28" width="0.1524" layer="91"/>
-<pinref part="R8" gate="G$1" pin="2"/>
+<pinref part="R9" gate="G$1" pin="2"/>
 <wire x1="129.54" y1="210.82" x2="129.54" y2="213.36" width="0.1524" layer="91"/>
 <junction x="129.54" y="213.36"/>
 </segment>
@@ -20697,11 +20745,11 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <pinref part="U1" gate="A" pin="FB"/>
 <wire x1="127" y1="220.98" x2="142.24" y2="220.98" width="0.1524" layer="91"/>
 <wire x1="142.24" y1="220.98" x2="142.24" y2="213.36" width="0.1524" layer="91"/>
-<pinref part="R9" gate="G$1" pin="1"/>
+<pinref part="R12" gate="G$1" pin="1"/>
 <wire x1="142.24" y1="213.36" x2="162.56" y2="213.36" width="0.1524" layer="91"/>
 <wire x1="162.56" y1="213.36" x2="170.18" y2="213.36" width="0.1524" layer="91"/>
 <wire x1="170.18" y1="213.36" x2="170.18" y2="215.9" width="0.1524" layer="91"/>
-<pinref part="R10" gate="G$1" pin="2"/>
+<pinref part="R13" gate="G$1" pin="2"/>
 <wire x1="170.18" y1="208.28" x2="170.18" y2="213.36" width="0.1524" layer="91"/>
 <junction x="170.18" y="213.36"/>
 <pinref part="C10" gate="G$1" pin="1"/>
@@ -20736,35 +20784,35 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 </net>
 <net name="N$7" class="0">
 <segment>
-<pinref part="R11" gate="G$1" pin="2"/>
-<pinref part="LED1" gate="G$1" pin="C"/>
+<pinref part="R14" gate="G$1" pin="2"/>
+<pinref part="LED4" gate="G$1" pin="C"/>
 <wire x1="180.34" y1="208.28" x2="180.34" y2="215.9" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$11" class="0">
 <segment>
-<pinref part="R8" gate="G$1" pin="1"/>
+<pinref part="R9" gate="G$1" pin="1"/>
 <pinref part="C5" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$1" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="GPIO23"/>
-<wire x1="55.88" y1="114.3" x2="63.5" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="R4" gate="G$1" pin="1"/>
+<wire x1="71.12" y1="114.3" x2="78.74" y2="114.3" width="0.1524" layer="91"/>
+<pinref part="R7" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
-<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="R6" gate="G$1" pin="1"/>
 <pinref part="J2" gate="G$1" pin="GPIO17"/>
-<wire x1="55.88" y1="121.92" x2="63.5" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="121.92" x2="78.74" y2="121.92" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$9" class="0">
 <segment>
 <pinref part="Q1" gate="NMOS" pin="G"/>
-<pinref part="R2" gate="G$1" pin="1"/>
+<pinref part="R5" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="40.64" x2="38.1" y2="40.64" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -20781,7 +20829,7 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 </net>
 <net name="FAN" class="0">
 <segment>
-<pinref part="R2" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 <pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="27.94" y1="40.64" x2="25.4" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="25.4" y1="40.64" x2="25.4" y2="38.1" width="0.1524" layer="91"/>
@@ -20790,11 +20838,11 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <label x="22.86" y="40.64" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="53.34" y1="129.54" x2="58.42" y2="129.54" width="0.1524" layer="91"/>
-<wire x1="58.42" y1="129.54" x2="58.42" y2="124.46" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="127" x2="66.04" y2="127" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="127" x2="66.04" y2="124.46" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="GPIO16"/>
-<wire x1="58.42" y1="124.46" x2="63.5" y2="124.46" width="0.1524" layer="91"/>
-<label x="53.34" y="129.54" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="66.04" y1="124.46" x2="78.74" y2="124.46" width="0.1524" layer="91"/>
+<label x="58.42" y="127" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="HF_LORA" class="1">
@@ -20814,17 +20862,15 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <net name="N$13" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="3V3_OUT"/>
-<wire x1="63.5" y1="152.4" x2="50.8" y2="152.4" width="0.1524" layer="91"/>
-<wire x1="50.8" y1="152.4" x2="50.8" y2="175.26" width="0.1524" layer="91"/>
-<wire x1="50.8" y1="175.26" x2="114.3" y2="175.26" width="0.1524" layer="91"/>
-<pinref part="R6" gate="G$1" pin="2"/>
-<wire x1="119.38" y1="172.72" x2="119.38" y2="175.26" width="0.1524" layer="91"/>
-<pinref part="R7" gate="G$1" pin="2"/>
-<wire x1="119.38" y1="175.26" x2="121.92" y2="175.26" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="175.26" x2="124.46" y2="175.26" width="0.1524" layer="91"/>
-<wire x1="124.46" y1="175.26" x2="124.46" y2="172.72" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="175.26" x2="119.38" y2="175.26" width="0.1524" layer="91"/>
-<junction x="119.38" y="175.26"/>
+<wire x1="78.74" y1="152.4" x2="66.04" y2="152.4" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="152.4" x2="66.04" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="175.26" x2="134.62" y2="175.26" width="0.1524" layer="91"/>
+<pinref part="R10" gate="G$1" pin="2"/>
+<wire x1="134.62" y1="172.72" x2="134.62" y2="175.26" width="0.1524" layer="91"/>
+<pinref part="R11" gate="G$1" pin="2"/>
+<wire x1="134.62" y1="175.26" x2="139.7" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="139.7" y1="175.26" x2="139.7" y2="172.72" width="0.1524" layer="91"/>
+<junction x="134.62" y="175.26"/>
 </segment>
 </net>
 <net name="N$15" class="0">
@@ -20858,8 +20904,56 @@ https://forum.openwrt.org/t/official-raspberry-pi-4-fan-yes-instructions-inside/
 <net name="N$19" class="0">
 <segment>
 <pinref part="J3" gate="G$1" pin="GPS_STBY"/>
-<pinref part="R14" gate="G$1" pin="2"/>
-<wire x1="281.94" y1="121.92" x2="279.4" y2="121.92" width="0.1524" layer="91"/>
+<pinref part="R17" gate="G$1" pin="2"/>
+<wire x1="297.18" y1="121.92" x2="294.64" y2="121.92" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$20" class="0">
+<segment>
+<pinref part="LED1" gate="G$1" pin="C"/>
+<pinref part="R2" gate="G$1" pin="1"/>
+<wire x1="38.1" y1="154.94" x2="40.64" y2="154.94" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$21" class="0">
+<segment>
+<pinref part="LED2" gate="G$1" pin="C"/>
+<pinref part="R3" gate="G$1" pin="1"/>
+<wire x1="38.1" y1="144.78" x2="40.64" y2="144.78" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$22" class="0">
+<segment>
+<pinref part="LED3" gate="G$1" pin="C"/>
+<pinref part="R4" gate="G$1" pin="1"/>
+<wire x1="38.1" y1="134.62" x2="40.64" y2="134.62" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$23" class="0">
+<segment>
+<pinref part="J2" gate="G$1" pin="GPIO4(GPCLK0)"/>
+<wire x1="78.74" y1="134.62" x2="60.96" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="134.62" x2="60.96" y2="154.94" width="0.1524" layer="91"/>
+<pinref part="LED1" gate="G$1" pin="A"/>
+<wire x1="60.96" y1="154.94" x2="48.26" y2="154.94" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$24" class="0">
+<segment>
+<pinref part="J2" gate="G$1" pin="GPIO5"/>
+<wire x1="78.74" y1="132.08" x2="58.42" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="132.08" x2="58.42" y2="144.78" width="0.1524" layer="91"/>
+<pinref part="LED2" gate="G$1" pin="A"/>
+<wire x1="58.42" y1="144.78" x2="48.26" y2="144.78" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$25" class="0">
+<segment>
+<pinref part="J2" gate="G$1" pin="GPIO6"/>
+<wire x1="78.74" y1="129.54" x2="55.88" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="129.54" x2="55.88" y2="134.62" width="0.1524" layer="91"/>
+<pinref part="LED3" gate="G$1" pin="A"/>
+<wire x1="55.88" y1="134.62" x2="48.26" y2="134.62" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
